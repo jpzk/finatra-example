@@ -1,5 +1,12 @@
 package com.mwt.forms 
 
+/**
+ * The focus lies on how-to-structure and what paradigms I used
+ * instead of full-testing (e.g. API responses, parser is tested).
+ *
+ * The finagle client does not support redirects, and for writing
+ * a redirect filter I did not have time left.
+ */
 import java.net.URI
 
 import com.twitter.util.Await
