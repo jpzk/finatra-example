@@ -1,5 +1,5 @@
-name := "hello-world"
-organization := "com.twitter"
+name := "analytics"
+organization := "com.anonymous"
 version := "2.12.0-SNAPSHOT"
 scalaVersion := "2.12.1"
 parallelExecution in ThisBuild := false

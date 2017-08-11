@@ -1,4 +1,4 @@
-package com.mwt.forms 
+package com.anonymous
 
 import com.twitter.finagle.http.{Request, Response}
 import com.twitter.finatra.http.HttpServer
